@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : bdashrad
+      short_name : bdashradgithub
     livefyre :
       site_id : 123
     intensedebate :
