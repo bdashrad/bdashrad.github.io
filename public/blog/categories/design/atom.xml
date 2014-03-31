@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Design | Brad Clark]]></title>
+  <link href="http://www.bdashrad.com/blog/categories/design/atom.xml" rel="self"/>
+  <link href="http://www.bdashrad.com/"/>
+  <updated>2014-03-31T17:41:56-04:00</updated>
+  <id>http://www.bdashrad.com/</id>
+  <author>
+    <name><![CDATA[Brad Clark]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Choosing a CMS]]></title>
+    <link href="http://www.bdashrad.com/blog/2014/03/30/choosing-a-cms/"/>
+    <updated>2014-03-30T10:24:38-04:00</updated>
+    <id>http://www.bdashrad.com/blog/2014/03/30/choosing-a-cms</id>
+    <content type="html"><![CDATA[<p>I spent a long time (ok, a couple hours), playing with a few different content management systems before finally deciding on using <a href="http://octopress.org/" title="Octopress">Octopress</a>.</p>
+
+<p>Octopress gives me the flexibility I want, without the need for a database backend.</p>
+]]></content>
+  </entry>
+  
+</feed>
