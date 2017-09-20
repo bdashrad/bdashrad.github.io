@@ -1,3 +1,7 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/bdashrad-ananke"]
+	path = themes/bdashrad-ananke
+	url = git@github.com:bdashrad/gohugo-theme-ananke.git
+	branch = google-analytics

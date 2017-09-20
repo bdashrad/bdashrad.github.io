@@ -1,7 +1,7 @@
 baseURL = "https://bdashrad.com/"
 languageCode = "en-us"
-title = "Home"
-theme = "ananke"
+title = "Brad Clark"
+theme = "bdashrad-ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
