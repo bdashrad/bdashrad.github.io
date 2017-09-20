@@ -1,19 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://www.bdashrad.com/blog/archives/</loc>
-        <lastmod>2016-06-27T15:14:43-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.bdashrad.com/robots.txt</loc>
-        <lastmod>2016-06-27T15:14:43-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.bdashrad.com/posts/</loc>
-        <lastmod>2016-06-27T15:14:43-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.bdashrad.com/</loc>
-        <lastmod>2016-06-27T15:14:43-04:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://bdashrad.com/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bdashrad.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bdashrad.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bdashrad.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bdashrad.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>

@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: 
+# robotstxt.org - if ENV production variable is false robots will be disallowed.
 
-Sitemap: http://www.bdashrad.com/sitemap.xml 
+  Disallow: /
+
