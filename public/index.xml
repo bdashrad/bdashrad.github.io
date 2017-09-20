@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>http://bdashrad.com/</link>
+    <link>https://bdashrad.com/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://bdashrad.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bdashrad.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Brad Clark</title>
-      <link>http://bdashrad.com/</link>
+      <link>https://bdashrad.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bdashrad.com/</guid>
+      <guid>https://bdashrad.com/</guid>
       <description>Systems engineer, working in the cloud! I enjoy solving problems, automation, monitoring, and writing dirty bash scripts.</description>
     </item>
     
     <item>
       <title>Contact Me</title>
-      <link>http://bdashrad.com/contact/</link>
+      <link>https://bdashrad.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bdashrad.com/contact/</guid>
+      <guid>https://bdashrad.com/contact/</guid>
       <description> Your Name Email Address An email address is required.  Message   </description>
     </item>
     
