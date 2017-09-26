@@ -4,4 +4,4 @@
 [submodule "themes/bdashrad-ananke"]
 	path = themes/bdashrad-ananke
 	url = git@github.com:bdashrad/gohugo-theme-ananke.git
-	branch = google-analytics
+	branch = master
