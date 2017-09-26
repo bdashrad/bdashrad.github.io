@@ -13,7 +13,7 @@ enableRobotsTXT = true
 [params]
   env = "production"
   # description = ""
-  facebook = "https://facebook.com/bdashrad"
+  # facebook = ""
   twitter = "https://twitter.com/bdashrad"
   instagram = "https://twitter.com/bdashrad"
   github = "https://github.com/bdashrad"
