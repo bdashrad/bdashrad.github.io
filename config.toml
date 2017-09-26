@@ -1,7 +1,7 @@
 baseURL = "https://bdashrad.com/"
 languageCode = "en-us"
 title = "Brad Clark"
-theme = "bdashrad-ananke"
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -11,13 +11,13 @@ googleAnalytics = "UA-49441297-1"
 enableRobotsTXT = true
 
 [params]
-  description = ""
+  env = "production"
+  # description = ""
   facebook = "https://facebook.com/bdashrad"
   twitter = "https://twitter.com/bdashrad"
   instagram = "https://twitter.com/bdashrad"
-  youtube = ""
   github = "https://github.com/bdashrad"
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  linkedin = "https://www.linkedin.com/in/bradfordclark/"
   background_color_class = "bg-black"
   featured_image = "/images/background.jpg"
 
