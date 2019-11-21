@@ -10,6 +10,11 @@ Paginate = 9
 googleAnalytics = "UA-49441297-1"
 enableRobotsTXT = true
 
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 [params]
   env = "production"
   # description = ""
@@ -20,6 +25,7 @@ enableRobotsTXT = true
   linkedin = "https://www.linkedin.com/in/bradfordclark/"
   background_color_class = "bg-black"
   featured_image = "/images/background.jpg"
+  recent_posts_number = 2
 
 [[menu.main]]
   name = "Resumé"

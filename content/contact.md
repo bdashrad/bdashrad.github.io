@@ -1,5 +1,5 @@
 ---
-title: Contact Me
+title: Contact
 description: Feel free to reach out if you need me.
 featured_image: '/images/background.jpg'
 type: page
