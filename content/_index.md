@@ -1,13 +1,13 @@
 ---
 title: "Brad Clark"
 featured_image: '/images/background.jpg'
-description: "Possibly not a blogger."
+description: "Apparently not a blogger."
 
 ---
 
 
-Systems engineer, working in the cloud! I enjoy solving problems, automation, monitoring, and writing dirty bash scripts.
+Infrastructure leader and engineer. I enjoy helping other engineers create reliable applications that don't keep them up at night.
 
-Here I’ll be writing about things I do at work so I won’t forget them and maybe someone else will also find them useful. I’ll probably also write about cooking and other random things I’m in to at the moment.
+In my free time I enjoy playing guitar, my cars, and hanging out with my family.
 
-In my free time I enjoy playing guitar and hanging out with my daughter.
+If you’re looking for someone to take a leadership role, shaping the infrastructure and the architectural decisions that drive your developers productivity, let’s talk.
