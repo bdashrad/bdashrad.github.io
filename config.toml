@@ -23,6 +23,7 @@ enableRobotsTXT = true
   instagram = "https://instagram.com/bdashrad"
   github = "https://github.com/bdashrad"
   linkedin = "https://www.linkedin.com/in/bradfordclark/"
+  keybase = "https://keybase.io/bdashrad"
   background_color_class = "bg-black"
   featured_image = "/images/background.jpg"
   recent_posts_number = 2
